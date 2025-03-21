@@ -8,6 +8,7 @@ This project explores SpaceX Falcon 9 launch records to uncover insights and bui
 
 - `data/` – CSV files and datasets from web scraping and API
 - `notebooks/` – Jupyter Notebooks with data wrangling, EDA, modeling, and visualization
+- `app/` – File for the dashboard application
 - `README.md` – Project overview and documentation
 
 ---
